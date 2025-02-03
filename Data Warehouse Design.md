@@ -1,0 +1,1 @@
+A [[data warehouse]] design includes choosing the appropriate [[Data WareHouse Architecture|data architecture]] that best fits the [[business processes]], designing the [[dimensional model]], and deciding between an [[ETL]] or [[ELT]] approach for data integration.

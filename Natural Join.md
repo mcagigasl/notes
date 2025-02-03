@@ -1,0 +1,1 @@
+A natural join, is a [[SQL]] join which mach automatically two tables which doesn't require an explicit `ON` clause. Natural join can be applied to several tables. Each SQL language infers the target columns differently. 

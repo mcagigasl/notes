@@ -1,0 +1,1 @@
+In statistics, a sampling distribution or finite-sample distribution is the[[ probability distribution]] of a given random-sample-based statistic such as the mean, or the standard deviation.

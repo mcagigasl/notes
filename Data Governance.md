@@ -1,0 +1,3 @@
+Data governance refers to the overall management of [[data]] assets in an organization, including policies, procedures, standards, and responsibilities for ensuring data quality, integrity, security, and compliance.
+
+A good data governance policy ensures that data is properly defined, consistent, and high-quality throughout its lifecycle, which can make it easier to maintain and [[Data Cleaning|clean data]] when issues arise.

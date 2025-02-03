@@ -1,0 +1,1 @@
+Sharding is the technique of distribute several tables among several machines before a [[Table Partitioning]] has be done

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7622b472a9aa23e0","x":-420,"y":-220,"width":250,"height":60,"type":"text","text":"Data models"},
+		{"id":"3b6eb6a3a7559a49","x":42,"y":-371,"width":250,"height":60,"type":"text","text":"Relational Data Model"},
+		{"id":"a040bf01ffae6d61","x":43,"y":-65,"width":250,"height":60,"type":"text","text":"Dimensional Data Model"},
+		{"id":"f89f510220129d4f","x":-420,"y":80,"width":250,"height":60,"type":"text","text":"Data Modeling"}
+	],
+	"edges":[
+		{"id":"4d9219b7ea290b64","fromNode":"7622b472a9aa23e0","fromSide":"right","toNode":"3b6eb6a3a7559a49","toSide":"left"},
+		{"id":"2ce280900754163b","fromNode":"7622b472a9aa23e0","fromSide":"right","toNode":"a040bf01ffae6d61","toSide":"left"},
+		{"id":"2494811a464626c6","fromNode":"f89f510220129d4f","fromSide":"top","toNode":"7622b472a9aa23e0","toSide":"bottom","label":"Choose a"}
+	]
+}

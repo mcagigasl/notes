@@ -1,0 +1,1 @@
+A Probability Mass Function (PMF), is the discrete equivalent of the [[Probability Density Function]], i.e a function that gives the probability that a discrete [[random variable ]] is exactly equal to some value. 

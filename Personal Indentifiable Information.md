@@ -1,0 +1,1 @@
+Personal Identifiable Information is any information connected to a specific individual that can be used to identify that individual's identity.

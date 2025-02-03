@@ -1,0 +1,1 @@
+A Pivot Table is a [[table]] of values which are aggregations of groups of individuals from a more extensive table. We can consider pivoting such the process of transformation [[wide data]] into [[long data]]

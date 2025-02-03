@@ -1,0 +1,1 @@
+MatPlotlib is a library to create statistic, animated and interactive visualisations in [[Python]]

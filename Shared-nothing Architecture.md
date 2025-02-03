@@ -1,0 +1,2 @@
+  A shared-nothing architecture  is a distributed computing architecture in which each update request is satisfied by a single node (processor/memory/storage unit) in a computer cluster. The intent is to eliminate contention among nodes. Nodes do not share (independently access) the same memory or storage. 
+![[Pasted image 20250121180444.png|400]]

@@ -1,0 +1,1 @@
+The definition of statistics is quite complex, and depends on the [[Frame of Reference|frame of reference]] you are working within. However, we can briefly define statistics as the study and practice of analyzing [[data]]. From here there are two main types of statistics: [[Descriptive Statistics|descriptive]] and [[Inferential Statistics|inferential]].

@@ -1,0 +1,1 @@
+Scatter plots visualizes the relationship between two [[Types of Data|numerical]] variables. Scatter plots allows us to see correlation between two numerical variables.

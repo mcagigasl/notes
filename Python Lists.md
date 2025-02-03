@@ -1,0 +1,1 @@
+A Python list is a [[Python Data Structures]], consisting in an ordered (i.e indexed), mutable and heterogeneous collection of items. A single list can contain different types. `list = [1, 'n', False].

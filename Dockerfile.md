@@ -1,0 +1,1 @@
+To create Docker images, it's necessary to define a set of instructions in a Dockerfile. This file specifies the base image, software installations, configurations, and application setup.

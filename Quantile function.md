@@ -1,0 +1,1 @@
+In [[probablity]] and [[statistics]] the quantile  function of a real-valued [[Random Variable]] $X$, outputs the value of a random variable such that its probability is less than or equal to an input probability value.

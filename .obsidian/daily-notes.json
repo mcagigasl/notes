@@ -1,0 +1,6 @@
+{
+  "folder": "Timestamps",
+  "template": "templates/daily",
+  "autorun": false,
+  "format": "YYYY/MMMM/YYYY-MM-DD-dddd"
+}

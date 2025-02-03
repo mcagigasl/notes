@@ -1,0 +1,1 @@
+An historiogram represents the [[Probability Distribution]] of numericla data.

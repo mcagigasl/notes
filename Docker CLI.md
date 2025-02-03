@@ -1,0 +1,1 @@
+[[Docker]] command line interface. Communicates Docker with the [[Docker Daemon]]. For example, docker run image creates a [[Docker Container]] for that particular image.

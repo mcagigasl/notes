@@ -1,0 +1,1 @@
+Self Join consists in joining a Table with itself. This could be useful when we have a **hierarchical relationship** (such as employee and manager) or **graph data** (such as networks or friends)

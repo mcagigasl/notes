@@ -1,0 +1,1 @@
+A **surrogate key** is an artificial, system-generated identifier that uniquely identifies a row in a table. It typically has no [[Business Logic]] and is used because the natural or business key (like a username, email, or product code) is either not available, too complex, or prone to changes.

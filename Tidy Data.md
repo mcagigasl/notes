@@ -1,0 +1,1 @@
+Tidy Data is the [[Data Cleaning Process]] for structuring data such that "each variable is a column, each observation is a row, and each type of observational unit is a table". It is equivalent to Codd's [[Third Normal Form]]

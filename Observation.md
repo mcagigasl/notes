@@ -1,0 +1,1 @@
+Typically refers to single row of data in a [[Pandas DataFrame]], usuall represented as a [[Pandas DataFrame]] or  [[Pandas Series]]  

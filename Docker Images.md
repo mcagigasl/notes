@@ -1,0 +1,1 @@
+Docker Images are read-only templates containing the application code and dependencies. Images are versioned and can be stored in repositories like [Docker Hub](https://hub.docker.com/).

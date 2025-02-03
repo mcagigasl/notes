@@ -1,0 +1,1 @@
+The Central Limit Theorem (CLT) states that the [[Sampling Distribution]] of the mean of a large number of independent, identically distributed (i.i.d.) random variables approaches a normal distribution, regardless of the original population's distribution, as long as the sample size is sufficiently large.

@@ -1,0 +1,1 @@
+Great for visualizing changes in numerical variables over time.

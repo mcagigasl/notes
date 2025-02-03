@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "472fad5aa4232050",
+    "type": "split",
+    "children": [
+      {
+        "id": "a322a1fc2cedf444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d85d0d0dfbfb813",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/February/2025-02-03-Monday.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-02-03-Monday"
+            }
+          },
+          {
+            "id": "43157a68423a590b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability Density Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Density Function"
+            }
+          },
+          {
+            "id": "6cd1c90b5dd1de9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability Mass Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Mass Function"
+            }
+          },
+          {
+            "id": "a0b787c1d632b1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poisson Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poisson Distribution"
+            }
+          },
+          {
+            "id": "4678519c4ae6e2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponential Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exponential Distribution"
+            }
+          },
+          {
+            "id": "a2794872bfb87168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponential Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exponential Distribution"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9716ba6801683da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5dc7af41d1bac82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af29ab700ea2d340",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bfd10267359ddad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "categorical",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e7527a8aa991247e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "179a82d0b32974ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0025e0728a1afee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bbe1f58226d86d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exponential Distribution.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exponential Distribution"
+            }
+          },
+          {
+            "id": "5b0c09fa57ff76f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DBMS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DBMS"
+            }
+          },
+          {
+            "id": "74c3ff2df4f60304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "abf3b3549a0311ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Joining DataFrames.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Joining DataFrames"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a2794872bfb87168",
+  "lastOpenFiles": [
+    "Student's t-distribution.md",
+    "Exponential Distribution.md",
+    "Poisson Distribution.md",
+    "Probability Mass Function.md",
+    "Probability Density Function.md",
+    "Probability Distribution.md",
+    "Random Variable.md",
+    "Timestamps/2025/February/2025-02-03-Monday.md",
+    "Normal Distribution.md",
+    "Types of Data.md",
+    "Histogram.md",
+    "Data.md",
+    "Common Table Expressions.md",
+    "Natural Join.md",
+    "Continuous Uniform Distribution.md",
+    "Skewed Distributions.md",
+    "Line Plots.md",
+    "Timestamps/2025/January/2025-01-31-Friday.md",
+    "Timestamps/2025/February",
+    "Central limit theorem.md",
+    "Sampling Distribution.md",
+    "attachments/Pasted image 20250131183912.png",
+    "attachments/Pasted image 20250131183712.png",
+    "Cumulative Distribution Function.md",
+    "Quantile function.md",
+    "Logarith Scale Transformation.md",
+    "Matplotlib Plotting.md",
+    "Data Warehouse.md",
+    "Scatter Plots.md",
+    "attachments/Pasted image 20250131104825.png",
+    "attachments/Pasted image 20250131101834.png",
+    "attachments/Pasted image 20250131094521.png",
+    "attachments/Pasted image 20241203103957.png",
+    "attachments/Pasted image 20250116104709.png",
+    "attachments",
+    "attachments/Pasted image 20250129124404.png",
+    "attachments/Pasted image 20250129124331.png",
+    "attachments/Pasted image 20250128171547.png",
+    "Timestamps/2025/01-January",
+    "Untitled.canvas",
+    "Timestamps/2025/January",
+    "Timestamps/2025",
+    "Timestamps",
+    "2025/January",
+    "2025",
+    "templates/daily",
+    "templates",
+    "Data Models.canvas"
+  ]
+}

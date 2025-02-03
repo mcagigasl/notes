@@ -1,0 +1,3 @@
+The snowflake schema is a [[Database Schema]], it consits in a  [[Database Normalization]] of the [[Star Schema]] in which each  [[Dimension Table]]  are normalised into multiple related tables, whereas the star schema's dimensions are denormalized with each dimension represented by a single table.  A complex snowflake shape emerges when the dimensions of a snowflake schema are elaborate, having multiple levels of relationships, and the child tables have multiple parent tables ("forks in the road"). 
+
+![[Pasted image 20241209125252.png]]

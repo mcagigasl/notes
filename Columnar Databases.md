@@ -1,0 +1,1 @@
+[[Databases]] that store data in columns rather than rows, such as [[Amazon Redshift ]], [[Apache Parquet]], or [[Snowflake]] are becoming more popular for [[OLAP]] workloads. Columnar databases optimize analytical queries without the need for traditional OLAP cubes.

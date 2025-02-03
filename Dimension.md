@@ -1,0 +1,1 @@
+A **dimension** in a **[[dimension table ]]** refers to an entity (e.g., customer, product, time, etc.) that provides descriptive attributes to give context to the facts in a [[data warehouse]]. The dimension table stores these descriptive attributes and is typically joined to a **[[fact table]]** to enable detailed analysis of metrics (facts) across different dimensions.

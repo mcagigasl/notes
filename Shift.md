@@ -1,0 +1,1 @@
+Shift, in spanish, means "desplazamiento".

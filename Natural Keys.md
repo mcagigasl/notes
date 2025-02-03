@@ -1,0 +1,1 @@
+A **natural key** (also known as a **business key** or **domain key**) is a key that is derived from the **real-world** data or **[[business logic]]** and can uniquely identify a record.  It has intrinsic **meaning** within the application or domain, and it is typically already part of the business data.

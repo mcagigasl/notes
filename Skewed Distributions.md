@@ -1,0 +1,1 @@
+Skewness is a measure of the asymmetry of the [[Probability Distribution|probability distribution]] of a real-valued [[random variable]] about its [[Measures of center|mean]]. The skewness value can be positive, zero, negative, or undefined. 

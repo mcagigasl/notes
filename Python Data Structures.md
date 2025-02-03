@@ -1,0 +1,1 @@
+[[Python]]  data structure are objects meant to store and manage data efficiently. Important  Built-in data structures are [[Python Lists]], [[Python Dictionary]], [[Python Tuples]], [[Python Sets]] and [[Python Strings]].

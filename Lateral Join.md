@@ -1,0 +1,1 @@
+A lateral join is a [[SQL]] js a join between to tables in which a row-by-row evaluation is needed.
